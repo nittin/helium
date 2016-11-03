@@ -1,2 +1,2 @@
 # helium
-A meteor example project
+An angular 2 project
